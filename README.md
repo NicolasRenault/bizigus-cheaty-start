@@ -11,12 +11,12 @@ As soon as you spawn in, you will automatically receive:
 
 ## How to Install (It's super easy)
 
-1. **Download** the `starter_pack` folder from this page.
+1. **Download** the last release of this project.
 2. Open Minecraft and go to your Singleplayer worlds list.
 3. Click once on the world you want to add this to, then click **Edit** at the bottom.
 4. Click **Open World Folder**.
 5. Find the folder named `datapacks` and open it.
-6. Drag and drop the `starter_pack` folder right inside.
+6. Drag and drop the `Bizigus Cheaty Start` folder right inside.
 7. Open your world! (If you are already playing in the world, just type `/reload` in the chat). 
 
 Enjoy the head start!
